@@ -66,12 +66,9 @@ ul.menu li{
 }
 
 p{
-	/*padding-top:40px;*/
 	padding-bottom:20px;
 	height:512px;
-	
 	background-size:padding;
-	
 	font-size:24px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
@@ -116,7 +113,7 @@ header{
 	text-align:center;
 	padding-top:30px;
 	padding-bottom:100px;
-	
+	display:block;
 	font-size:35px;
 	font-family:courier,verdana;
 }
