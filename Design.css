@@ -1,0 +1,156 @@
+
+body {
+	
+  background-image: url('hatter.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+h1{
+	margin-top:auto;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding-bottom:50px;
+	padding-top:35px;
+	padding-left:30px;
+	padding-right: 30px;
+	width:100%;
+	background-image:url('szen.jpg');
+	background-attachment:fixed;
+	background-size:padding;
+}
+.nev{
+	color:white;
+	font-size:210%;
+	text-shadow: 3px 3px 4px gray;
+	text-decoration:none;	
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+.udv{
+	font-size:210%;
+	font-family:Impact, Charcoal, sans-serif;
+	background:gray;
+	
+	
+}
+
+ul.menu {	
+	padding-bottom:20px;
+	padding-left:20px;
+	height:472px;
+	float:right;
+	margin:0;
+	position:above;
+	list-style-type:none;
+}
+
+ul.menu li{
+	padding-bottom: 32px;
+	padding-top:32px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:white;
+	background-image: url('kepala3.png');
+	text-align:center;
+	margin-left:2px;
+	border-width: 3px;
+	border-style:solid;
+	border-color:brown;
+	
+	font-size:20px;
+	font-family:geneva;
+}
+
+p{
+	/*padding-top:40px;*/
+	padding-bottom:20px;
+	height:512px;
+	
+	background-size:padding;
+	
+	font-size:24px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+a:link{
+	color:black;
+	background-color: transparent;
+	text-decoration:none;
+}
+
+a:hover{
+	color:green;
+	opacity:80%;
+	text-decoration:none;
+}
+
+a:visited{
+	color:black;
+	text-decoration:none;
+}
+
+.aktivlink{
+	color:brown;	
+}
+
+.tabla{
+	text-align:center;
+	text-decoration:underline;
+}
+
+header{
+	text-align:center;
+	padding: 10px  10px 10px 10px;
+	background-color:rgb(226, 211, 173);
+	border-style:solid;
+	border-color:black;	
+	font-size:70px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	text-shadow: 3px 3px 4px brown;
+}
+.elerhetoseg{
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:100px;
+	
+	font-size:35px;
+	font-family:courier,verdana;
+}
+.kepek{
+	border-style:dotted;
+}
+#oneletrajz{
+	border-collapse:collapse
+}
+#oneletrajz td,th{
+	padding-bottom:35px;
+	text-align:left;
+	
+
+}
+#oneletrajz th{
+	background-color:gray;
+	border-style: none solid none none;
+	font-size:25px;
+	font-family:Impact, Charcoal, sans-serif;
+	
+	
+}
+#oneletrajz td{
+	padding-left:22px;
+	font-family:Helvetica, sans-serif;
+}
+main{
+	font-size:24px;
+	font-family:"Comic Sans MS", cursive, sans-serif
+}
+.be{
+	padding-left:15px;
+}
+.ala{
+	text-decoration:underline;
+}
